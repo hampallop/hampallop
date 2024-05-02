@@ -2,7 +2,7 @@
   <samp>
     <a href="https://hampallop.notion.site/Pallop-Chaoputhipuchong-Ham-a12be6093091418bb9ff345ff5211c20?pvs=4">me</a> •
     <a href="https://www.linkedin.com/in/pallop">LinkedIn</a> •
-    <a href="mailto:pallop.chao@gmail.com">email</a> •
+    <a href="mailto:pallop.chao@gmail.com">email</a>
   </samp>
 </p>
 
